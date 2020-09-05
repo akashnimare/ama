@@ -4,7 +4,7 @@ Hello, everyone ✋
 ~~I'm a software developer living in Bangalore, India. I love to build and design things.
 I have experience in creating cross platform desktop applications, website backends, user experience and visual design. I have worked extensively in teams and alone.~~
 
-WTF? Sound human Akash. Okay, so here you go.
+WTF? Sound human Akash. Okay, here you go.
 
 Huh, so you're interested in knowing more about me? The first thing I should mention that I don't have any special talents. I consider myself pretty average.
 My two principles in life are - don't give up and work really really hard in the right direction. That's how I have achievd whatever you see so far.
