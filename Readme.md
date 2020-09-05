@@ -13,7 +13,6 @@ Born in a small town in MP, I have humble beginnings. Until 2011, the only thing
 I'm currently buidling [Fold](https://fold.money/) and [Devfolio](https://devfolio.co).
 
 ## More about me
-Personal website [WIP] - https://akashnimare.in
 
 Twitter - https://twitter.com/meakaakka
 
