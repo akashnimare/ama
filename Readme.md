@@ -8,7 +8,7 @@ WTF? Sound human Akash. Okay, here you go.
 
 Huh, so you're interested in knowing more about me? The first thing I should mention that I don't have any unique talents. I consider myself pretty average.
 My two life principles are - don't give up and work really hard in the right direction. That's how I have achieved whatever you see so far.
-Born in a small town in MP, I have humble beginnings. Until 2011, The only thing I knew about computers was that it was founded by Charles. From there, I have taught myself everything. I'm still learning. I still have to Google the basic stuff like adding inline CSS in HTML :p
+Born in a small town in MP, I have humble beginnings. Until 2011, the only thing I knew about computers was that it was invented by a guy named Charles or something.. From there, I have taught myself everything. I'm still learning. I still have to Google the basic stuff like adding inline CSS in HTML :p
 
 I'm currently buidling [Fold](https://fold.money/) and [Devfolio](https://devfolio.co).
 
